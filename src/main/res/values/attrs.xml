@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingTabLayout">
+        <attr name="slidingTabTextSize" format="dimension"/>
+        <attr name="slidingTabTextColor" format="reference|color"/>
+        <attr name="slidingTabTextSelectColor" format="reference|color"/>
+        <attr name="slidingTabTextBackground" format="reference"/>
+        <attr name="slidingTabIndicatorColor" format="reference|color"/>
+        <attr name="slidingTabIndicatorHight" format="dimension"/>
+        <attr name="slidingTabDividerColor" format="reference|color"/>
+        <attr name="slidingTabStyle">
+            <enum name="typeDefault" value="0"/>
+            <enum name="typeAlignCenter" value="1"/>
+            <enum name="typeAverage" value="2"/>
+        </attr>
+        <attr name="countPerScreen" format="float"/>
+    </declare-styleable>
+</resources>
