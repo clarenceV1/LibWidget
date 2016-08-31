@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.clarence.libwidget;
+package com.example.clarence.libwidget.pinnedsection;
 
 import android.content.Context;
 import android.database.DataSetObserver;

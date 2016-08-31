@@ -1,4 +1,4 @@
-package com.example.clarence.libwidget;
+package com.example.clarence.libwidget.pinnedsection;
 
 /**
  * Created by clarence on 16/8/30.
