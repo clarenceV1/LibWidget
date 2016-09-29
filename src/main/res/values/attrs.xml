@@ -24,4 +24,18 @@
         <attr name="sidebarTextSizeChoose" format="dimension"/>
         <attr name="sidebarItemHeight" format="dimension"/>
     </declare-styleable>
+
+    <declare-styleable name="indicator">
+        <!--正常颜色-->
+        <attr name="normalColor" format="reference"/>
+        <!--选中颜色-->
+        <attr name="selectColor" format="reference"/>
+        <!--正常 是否空心-->
+        <attr name="normalKongxin" format="boolean"/>
+        <!--选中 是否空心-->
+        <attr name="selectKongxin" format="boolean"/>
+        <!--点的宽高-->
+        <attr name="icon_w_h" format="dimension"/>
+
+    </declare-styleable>
 </resources>
